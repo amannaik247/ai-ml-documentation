@@ -10,3 +10,12 @@
 
 20 Nov, 25:
 - 2hrs: Deep learning: Collaborative filtering, Regularization L2, Dot products, their implementation in notebook
+
+22 Nov, 25:
+- Total: 4hrs
+
+25 Nov, 25:
+- 1hr: First read of Attention is all you need
+- 2hr: EDA tutorial KrishNaik
+- 2hr: Spaceship titanic dataset EDA on kaggle
+Total: 5hrs
